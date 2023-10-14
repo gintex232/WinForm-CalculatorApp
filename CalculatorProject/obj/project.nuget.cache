@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+kdzEJ8aD1dtxN22VK/LigwhubeUS8myOvWhKMVVcvctyPI0cV8/6IOH04v7lT3pgqTXvx/uMZTDRXRcE0Hlg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Calculator1\\CalculatorProject\\CalculatorProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Calculator1 is not compatible with net7.0 (.NETCoreApp,Version=v7.0). Project Calculator1 supports: net7.0-windows7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "Calculator1",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

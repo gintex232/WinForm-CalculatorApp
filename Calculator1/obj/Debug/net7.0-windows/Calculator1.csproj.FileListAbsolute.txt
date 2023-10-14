@@ -1,0 +1,75 @@
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\Calculator1.exe
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\Calculator1.deps.json
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\Calculator1.runtimeconfig.json
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\Calculator1.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.Form1.resources
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\refint\Calculator1.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\ref\Calculator1.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CopyComplete
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\source\repos\Calculator1\Calculator1\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\Calculator1.exe
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\Calculator1.deps.json
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\Calculator1.runtimeconfig.json
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.AssemblyReference.cache
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.Form1.resources
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.GenerateResource.cache
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfoInputs.cache
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfo.cs
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CopyComplete
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\refint\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\Calculator1.genruntimeconfig.cache
+C:\Users\GINTEX\Desktop\Other Projects\Calculator\Calculator1\obj\Debug\net7.0-windows\ref\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\Calculator1.exe
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\Calculator1.deps.json
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\Calculator1.runtimeconfig.json
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.abstractions.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.assert.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.core.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\bin\Debug\net7.0-windows\xunit.execution.dotnet.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.AssemblyReference.cache
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.Form1.resources
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.GenerateResource.cache
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfoInputs.cache
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.AssemblyInfo.cs
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.csproj.CopyComplete
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\refint\Calculator1.dll
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.pdb
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\Calculator1.genruntimeconfig.cache
+C:\Users\GINTEX\Desktop\Other Projects\WinForm-CalculatorApp\Calculator1\obj\Debug\net7.0-windows\ref\Calculator1.dll
